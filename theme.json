@@ -1,5 +1,5 @@
 {
-    "name": "rv_theme v1.2",
+    "name": "rv_theme v1.3",
     "description": "Embrace simplicity, cut distractions, and uncover what truly matters with a minimalistic theme.",
     "authors": [
         {
@@ -489,7 +489,7 @@
         "NotoSans-Normal": "https://github.com/k2angel/rv_theme/raw/main/sans.ttf",
         "NotoSans-NormalItalic": "https://github.com/k2angel/rv_theme/raw/main/sans.ttf",
         "NotoSans-Semibold": "https://github.com/k2angel/rv_theme/raw/main/sans.ttf",
-        "SourceCodePro-Semibold": "https://github.com/k2angel/rv_theme/raw/main/monospace.ttf.ttf"
+        "SourceCodePro-Semibold": "https://github.com/k2angel/rv_theme/raw/main/monospace.ttf"
     },
     "plus": {
         "version": 0,
