@@ -1,5 +1,5 @@
 {
-    "name": "Ratio.uzura v1.2",
+    "name": "rv_theme v1.2",
     "description": "Embrace simplicity, cut distractions, and uncover what truly matters with a minimalistic theme.",
     "authors": [
         {
@@ -472,24 +472,24 @@
         "YELLOW_300": "#d65d0e"
     },
     "fonts": {
-        "ABCGintoNord-ExtraBold": "hhttps://raw.githubusercontent.com/k2angel/rv_theme/main/sans.ttf",
-        "ggsans-Bold": "hhttps://raw.githubusercontent.com/k2angel/rv_theme/main/sans.ttf",
-        "ggsans-BoldItalic": "hhttps://raw.githubusercontent.com/k2angel/rv_theme/main/sans.ttf",
-        "ggsans-ExtraBold": "hhttps://raw.githubusercontent.com/k2angel/rv_theme/main/sans.ttf",
-        "ggsans-ExtraBoldItalic": "hhttps://raw.githubusercontent.com/k2angel/rv_theme/main/sans.ttf",
-        "ggsans-Medium": "hhttps://raw.githubusercontent.com/k2angel/rv_theme/main/sans.ttf",
-        "ggsans-MediumItalic": "hhttps://raw.githubusercontent.com/k2angel/rv_theme/main/sans.ttf",
-        "ggsans-Normal": "hhttps://raw.githubusercontent.com/k2angel/rv_theme/main/sans.ttf",
-        "ggsans-NormalItalic": "hhttps://raw.githubusercontent.com/k2angel/rv_theme/main/sans.ttf",
-        "ggsans-Semibold": "hhttps://raw.githubusercontent.com/k2angel/rv_theme/main/sans.ttf",
-        "ggsans-SemiboldItalic": "hhttps://raw.githubusercontent.com/k2angel/rv_theme/main/sans.ttf",
-        "NotoSans-Bold": "hhttps://raw.githubusercontent.com/k2angel/rv_theme/main/sans.ttf",
-        "NotoSans-ExtraBold": "hhttps://raw.githubusercontent.com/k2angel/rv_theme/main/sans.ttf",
-        "NotoSans-Medium": "hhttps://raw.githubusercontent.com/k2angel/rv_theme/main/sans.ttf",
-        "NotoSans-Normal": "hhttps://raw.githubusercontent.com/k2angel/rv_theme/main/sans.ttf",
-        "NotoSans-NormalItalic": "hhttps://raw.githubusercontent.com/k2angel/rv_theme/main/sans.ttf",
-        "NotoSans-Semibold": "hhttps://raw.githubusercontent.com/k2angel/rv_theme/main/sans.ttf",
-        "SourceCodePro-Semibold": "hhttps://raw.githubusercontent.com/k2angel/rv_theme/main/monospace.ttf.ttf"
+        "ABCGintoNord-ExtraBold": "https://github.com/k2angel/rv_theme/raw/main/sans.ttf",
+        "ggsans-Bold": "https://github.com/k2angel/rv_theme/raw/main/sans.ttf",
+        "ggsans-BoldItalic": "https://github.com/k2angel/rv_theme/raw/main/sans.ttf",
+        "ggsans-ExtraBold": "https://github.com/k2angel/rv_theme/raw/main/sans.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/k2angel/rv_theme/raw/main/sans.ttf",
+        "ggsans-Medium": "https://github.com/k2angel/rv_theme/raw/main/sans.ttf",
+        "ggsans-MediumItalic": "https://github.com/k2angel/rv_theme/raw/main/sans.ttf",
+        "ggsans-Normal": "https://github.com/k2angel/rv_theme/raw/main/sans.ttf",
+        "ggsans-NormalItalic": "https://github.com/k2angel/rv_theme/raw/main/sans.ttf",
+        "ggsans-Semibold": "https://github.com/k2angel/rv_theme/raw/main/sans.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/k2angel/rv_theme/raw/main/sans.ttf",
+        "NotoSans-Bold": "https://github.com/k2angel/rv_theme/raw/main/sans.ttf",
+        "NotoSans-ExtraBold": "https://github.com/k2angel/rv_theme/raw/main/sans.ttf",
+        "NotoSans-Medium": "https://github.com/k2angel/rv_theme/raw/main/sans.ttf",
+        "NotoSans-Normal": "https://github.com/k2angel/rv_theme/raw/main/sans.ttf",
+        "NotoSans-NormalItalic": "https://github.com/k2angel/rv_theme/raw/main/sans.ttf",
+        "NotoSans-Semibold": "https://github.com/k2angel/rv_theme/raw/main/sans.ttf",
+        "SourceCodePro-Semibold": "https://github.com/k2angel/rv_theme/raw/main/monospace.ttf.ttf"
     },
     "plus": {
         "version": 0,
