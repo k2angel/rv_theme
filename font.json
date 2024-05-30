@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "uzura+UDEV",
+    "previewText": "自分用",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/k2angel/rv_theme/raw/main/sans.ttf",
+        "ggsans-Bold": "https://github.com/k2angel/rv_theme/raw/main/sans.ttf",
+        "ggsans-BoldItalic": "https://github.com/k2angel/rv_theme/raw/main/sans.ttf",
+        "ggsans-ExtraBold": "https://github.com/k2angel/rv_theme/raw/main/sans.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/k2angel/rv_theme/raw/main/sans.ttf",
+        "ggsans-Medium": "https://github.com/k2angel/rv_theme/raw/main/sans.ttf",
+        "ggsans-MediumItalic": "https://github.com/k2angel/rv_theme/raw/main/sans.ttf",
+        "ggsans-Normal": "https://github.com/k2angel/rv_theme/raw/main/sans.ttf",
+        "ggsans-NormalItalic": "https://github.com/k2angel/rv_theme/raw/main/sans.ttf",
+        "ggsans-Semibold": "https://github.com/k2angel/rv_theme/raw/main/sans.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/k2angel/rv_theme/raw/main/sans.ttf",
+        "NotoSans-Bold": "https://github.com/k2angel/rv_theme/raw/main/sans.ttf",
+        "NotoSans-ExtraBold": "https://github.com/k2angel/rv_theme/raw/main/sans.ttf",
+        "NotoSans-Medium": "https://github.com/k2angel/rv_theme/raw/main/sans.ttf",
+        "NotoSans-Normal": "https://github.com/k2angel/rv_theme/raw/main/sans.ttf",
+        "NotoSans-NormalItalic": "https://github.com/k2angel/rv_theme/raw/main/sans.ttf",
+        "NotoSans-Semibold": "https://github.com/k2angel/rv_theme/raw/main/sans.ttf",
+        "SourceCodePro-Semibold": "https://github.com/k2angel/rv_theme/raw/main/monospace.ttf"
+    }
+}
