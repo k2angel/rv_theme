@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "uzura+UDEV-localhost",
+    "previewText": "自分用",
+    "main": {
+        "ABCGintoNord-ExtraBold": "http://localhost:8080/sans.ttf",
+        "ggsans-Bold": "http://localhost:8080/sans.ttf",
+        "ggsans-BoldItalic": "http://localhost:8080/sans.ttf",
+        "ggsans-ExtraBold": "http://localhost:8080/sans.ttf",
+        "ggsans-ExtraBoldItalic": "http://localhost:8080/sans.ttf",
+        "ggsans-Medium": "http://localhost:8080/sans.ttf",
+        "ggsans-MediumItalic": "http://localhost:8080/sans.ttf",
+        "ggsans-Normal": "http://localhost:8080/sans.ttf",
+        "ggsans-NormalItalic": "http://localhost:8080/sans.ttf",
+        "ggsans-Semibold": "http://localhost:8080/sans.ttf",
+        "ggsans-SemiboldItalic": "http://localhost:8080/sans.ttf",
+        "NotoSans-Bold": "http://localhost:8080/sans.ttf",
+        "NotoSans-ExtraBold": "http://localhost:8080/sans.ttf",
+        "NotoSans-Medium": "http://localhost:8080/sans.ttf",
+        "NotoSans-Normal": "http://localhost:8080/sans.ttf",
+        "NotoSans-NormalItalic": "http://localhost:8080/sans.ttf",
+        "NotoSans-Semibold": "http://localhost:8080/sans.ttf",
+        "SourceCodePro-Semibold": "http://localhost:8080/monospace.ttf"
+    }
+}
